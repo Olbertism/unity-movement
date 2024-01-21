@@ -73,3 +73,6 @@ crashlytics-build.properties
 
 # Asset store packages
 /[Aa]ssets/TerrainSampleAssets/*
+/[Aa]ssets/TextMesh Pro/*
+/Assets/Animals_FREE/*
+Assets/Little_GhostLP(FREE)/*
